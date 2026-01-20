@@ -15,13 +15,10 @@ It allows users to upload music with cover images, track listens, and interact t
 **Backend (server):**  
 - NestJS  
 - MongoDB + Mongoose  
-- RxJS  
-- UUID  
 
 **Tools:**  
 - TypeScript  
-- ESLint + Prettier  
-- Jest (unit/e2e tests)  
+- ESLint + Prettier   
 - Git  
 - Postman (API testing)  
 
